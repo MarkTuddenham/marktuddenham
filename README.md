@@ -6,9 +6,9 @@ I am a:
 
 <!--Projects:-->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marktuddenham&count_private=true&show_icons=true&theme=bear)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marktuddenham&count_private=true&show_icons=true&hide_title=true&theme=bear)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marktuddenham&layout=compact&theme=bear)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marktuddenham&layout=compact&hide_title=true&theme=bear)
 
 <!--
 - 🔭 I’m currently working on ...
