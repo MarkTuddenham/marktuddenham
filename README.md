@@ -10,6 +10,8 @@ I am a:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marktuddenham&layout=compact&hide_title=true&theme=bear)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkTuddenham&theme=bear&date_format=M%20j%5B%2C%20Y%5D&layout=compact)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
