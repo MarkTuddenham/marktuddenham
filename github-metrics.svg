@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bheisler/RustaCUDA</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rusty wrapper for the CUDA Driver API</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-ml/linfa</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust machine learning framework.</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bheisler/iai</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental one-shot benchmarking/profiling harness for Rust</div>
@@ -1032,7 +1032,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 601k out of 91m users</span>
+                                    <span class="gh">ranked 602k out of 91m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1391,7 +1391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 07:08:16 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 13:07:32 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
