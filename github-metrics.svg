@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xAX/linux-insides</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little bit about a linux kernel</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/book</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust Programming Language</div>
@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koute/not-perf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sampling CPU profiler for Linux</div>
@@ -1385,7 +1385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2022, 13:07:46 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 May 2022, 19:05:41 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
