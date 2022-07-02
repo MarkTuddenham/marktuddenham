@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetli/yew-hooks</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hooks for Yew, inspired by streamich/react-use and alibaba/hooks.</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/cxx</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe interop between Rust and C++</div>
@@ -1391,7 +1391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2022, 13:06:16 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 19:06:04 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
