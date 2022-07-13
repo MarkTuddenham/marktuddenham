@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lewis6991/spellsitter.nvim</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Treesitter powered spellchecker</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetli/yew-hooks</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hooks for Yew, inspired by streamich/react-use and alibaba/hooks.</div>
@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/cxx</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe interop between Rust and C++</div>
@@ -1412,22 +1412,22 @@ Keep Picture-in-Picture windows always on the current workspace
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">9d2325c7</span>
-                            <span class="code">nvim/.config/nvim/lua/tudders/telescope.lua</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">nvim/.config/nvim/spell/en.utf-8.add</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -19,6 +19,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	file_ignore_patterns = {<br /></span><span class="token prefix unchanged">·</span><span class="token line">		".git/.*", -- we have set hidden files to shown, but we don't want git dotfiles<br /></span><span class="token prefix unchanged">·</span><span class="token line">		".*venv/.*",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		".*target/.*",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	},<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">extensions = {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,3 +3,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">anticorrelated<br /></span><span class="token prefix unchanged">·</span><span class="token line">centering<br /></span><span class="token prefix unchanged">·</span><span class="token line">Frobenius<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Levenshtein<br /></span><span class="token prefix inserted">+</span><span class="token line">cyclomatic</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2022, 13:06:58 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 19:05:59 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
