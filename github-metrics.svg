@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChillFish8/rewrk</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>giltene/wrk2</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A constant throughput, correct latency recording variant of wrk</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rakyll/hey</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP load generator, ApacheBench (ab) replacement</div>
@@ -1385,7 +1385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 07:06:13 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 13:08:36 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
