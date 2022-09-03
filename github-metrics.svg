@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Byron/gitoxide</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</div>
@@ -1391,7 +1391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2022, 13:06:46 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 19:05:40 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
