@@ -15,7 +15,7 @@ jobs:
           config_display: columns
           user: MarkTuddenham
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: Europe/London
           plugin_achievements: yes
           plugin_achievements_display: compact
