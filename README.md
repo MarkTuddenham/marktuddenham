@@ -1,8 +1,6 @@
 ### Mark Tuddenham
 
-I am a:
-<!-- - NLP Engineer at [LanguageTool](languagetool.org) -->
-- Optimisation and Deep Learning Ph.D. candidate at The University of Southampton [@ecs-vlc](https://github.com/ecs-vlc)
+I am an Optimisation and Deep Learning Ph.D. candidate at The University of Southampton [@ecs-vlc](https://github.com/ecs-vlc)
 
 <!--Projects:-->
 <!-- <div align="center">
