@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="146.6095560800483" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="146.6095560800483" y="0" width="105.49650349075829" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="252.1060595708066" y="0" width="84.904610221821" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="337.0106697926276" y="0" width="70.14710245906521" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="407.1577722516928" y="0" width="17.96333659722577" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="425.12110884891854" y="0" width="17.121331766701477" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.24244061562" y="0" width="8.930932594619218" height="8" fill="#3be133"/>
-                    <rect mask="url(#languages-bar)" x="451.1733732102393" y="0" width="8.826626789760734" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.38215218826744" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="147.38215218826744" y="0" width="106.05244397790624" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="253.43459616617366" y="0" width="85.35203652322406" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="338.7866326893977" y="0" width="70.5167603436654" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="409.3033930330631" y="0" width="17.211556951499528" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.51494998456263" y="0" width="15.725154672693487" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.2401046572561" y="0" width="8.97799640103033" height="8" fill="#3be133"/>
+                    <rect mask="url(#languages-bar)" x="451.21810105828644" y="0" width="8.781898941713512" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,7 +90,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>31.87%</div>
+                                <div>32.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,18 +101,18 @@
                                 C++
                             </div>
                             <small>
-                                <div>18.46%</div>
+                                <div>18.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Java
                             </div>
                             <small>
-                                <div>3.91%</div>
+                                <div>3.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -123,7 +123,7 @@
                                 OCaml
                             </div>
                             <small>
-                                <div>1.94%</div>
+                                <div>1.95%</div>
                             </small>
                         </div>
                     </section>
@@ -136,7 +136,7 @@
                                 C
                             </div>
                             <small>
-                                <div>22.93%</div>
+                                <div>23.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -147,18 +147,18 @@
                                 Python
                             </div>
                             <small>
-                                <div>15.25%</div>
+                                <div>15.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                JavaScript
                             </div>
                             <small>
-                                <div>3.72%</div>
+                                <div>3.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -169,7 +169,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>1.92%</div>
+                                <div>1.91%</div>
                             </small>
                         </div>
                     </section>
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DanielVolchek/tailiscope.nvim</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TailwindCSS cheatsheet within Telescope</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanotee/nvim-lua-guide</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide to using Lua in Neovim</div>
@@ -1225,7 +1225,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2022, 12:07:23 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 20 Dec 2022, 18:05:53 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
