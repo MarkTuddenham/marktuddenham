@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charliermarsh/ruff</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast Python linter, written in Rust.</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>junegunn/fzf</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1050,7 +1050,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 385m repositories</span>
+                                    <span class="gh">ranked 4.70m out of 385m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1235,7 +1235,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2023, 06:05:43 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Mar 2023, 12:06:24 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
