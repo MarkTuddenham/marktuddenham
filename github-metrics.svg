@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>launchbadge/sqlx</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/axum</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</div>
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/copilot.vim</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin for GitHub Copilot</div>
@@ -1044,7 +1044,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.65m out of 394m repositories</span>
+                                    <span class="gh">ranked 4.58m out of 394m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1195,7 +1195,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2023, 13:07:12 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Apr 2023, 19:05:57 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
