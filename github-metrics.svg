@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>launchbadge/sqlx</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/axum</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</div>
@@ -273,7 +273,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        510
+                                        511
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/copilot.vim</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin for GitHub Copilot</div>
@@ -1044,7 +1044,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 397m repositories</span>
+                                    <span class="gh">ranked 4.53m out of 397m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1195,7 +1195,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2023, 13:06:40 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Apr 2023, 19:05:48 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
