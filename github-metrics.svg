@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lycheeverse/lychee</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-secure-code/cargo-auditable</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make production Rust binaries auditable</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Soft/xcolor</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight color picker for X11</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>newsboat/newsboat</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An RSS/Atom feed reader for text terminals</div>
@@ -1047,7 +1047,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.75m out of 48.7m repositories</span>
+                                    <span class="gh">ranked 4.53m out of 54.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1198,7 +1198,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2023, 13:06:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2023, 19:05:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
