@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tats/w3m</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Debian's w3m: WWW browsable pager</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SamHerbert/SVG-Loaders</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Loading icons and small animations built with pure SVG.</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pemistahl/lingua-rs</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most accurate natural language detection library for Rust, suitable for long and short text alike</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.90m out of 74.5m repositories</span>
+                                    <span class="gh">ranked 2.90m out of 71.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 74.5m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 71.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2023, 13:06:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 19:05:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
