@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tats/w3m</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Debian's w3m: WWW browsable pager</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SamHerbert/SVG-Loaders</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Loading icons and small animations built with pure SVG.</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.91m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 2.91m out of 74m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 74m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2023, 12:06:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2023, 18:05:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
