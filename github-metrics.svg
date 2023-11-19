@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bits-and-blooms/bloom</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go package implementing Bloom filters, used by Milvus and Beego.</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.93m out of 51.2m repositories</span>
+                                    <span class="gh">ranked 2.87m out of 53.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.08m out of 51.2m repositories</span>
+                                    <span class="gh">ranked 5.06m out of 53.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2023, 12:06:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 18:05:37 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
