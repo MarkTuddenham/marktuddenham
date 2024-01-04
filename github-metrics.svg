@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.66388847051684" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="145.66388847051684" y="0" width="102.18814247495482" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="247.85203094547165" y="0" width="81.54922971165506" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="329.4012606571267" y="0" width="72.66537422797126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="402.066634885098" y="0" width="17.83145321796324" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.89808810306124" y="0" width="16.548937218872744" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="436.447025321934" y="0" width="14.920617988279643" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.3676433102137" y="0" width="8.632356689786391" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.65827862318758" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="145.65827862318758" y="0" width="102.18420697739145" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="247.84248560057904" y="0" width="81.54608906551891" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="329.38857466609795" y="0" width="72.66257571929609" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.051150385394" y="0" width="17.848482133415775" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.8996325188098" y="0" width="16.548299881697183" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="436.44793240050694" y="0" width="14.920043361377589" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.36797576188457" y="0" width="8.632024238115424" height="8" fill="#ef7a08"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,7 +90,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>31.67%</div>
+                                <div>31.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectfluent/fluent-rs</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust implementation of Project Fluent</div>
@@ -213,7 +213,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        929
+                                        930
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/packer</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rasbt/deeplearning-models</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of various deep learning architectures, models, and tips</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.94m out of 55.2m repositories</span>
+                                    <span class="gh">ranked 2.94m out of 54.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.73m out of 55.2m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 54.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 12:07:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 18:06:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
