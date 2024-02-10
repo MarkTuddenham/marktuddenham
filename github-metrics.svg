@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarginaliaSearch/MarginaliaSearch</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Internet search engine for text-oriented websites. Indexing the small, old and weird web.</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maxcountryman/axum-login</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🪪 User identification, authentication, and authorization for Axum.</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.02m out of 68.4m repositories</span>
+                                    <span class="gh">ranked 3.02m out of 72.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.14m out of 68.4m repositories</span>
+                                    <span class="gh">ranked 5.14m out of 72.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2024, 12:06:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 18:05:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
