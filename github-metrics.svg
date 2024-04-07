@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.3805023882125" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="158.3805023882125" y="0" width="96.98651735497222" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="255.3670197431847" y="0" width="77.3981754747377" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="332.76519521792244" y="0" width="72.23357440514509" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.9987696230675" y="0" width="16.94060338086729" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="421.9393730039348" y="0" width="15.706556043700676" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.6459290476355" y="0" width="14.16112222435066" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.80705127198615" y="0" width="8.192948728013842" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.38807964904677" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="158.38807964904677" y="0" width="96.9840808674599" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="255.37216051650665" y="0" width="77.39623108397943" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="332.7683916004861" y="0" width="72.23175975908079" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.0001513595669" y="0" width="16.940177800387506" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="421.94032915995444" y="0" width="15.706161464859145" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.64649062481357" y="0" width="14.16076646977362" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.8072570945872" y="0" width="8.192742905412832" height="8" fill="#ef7a08"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -219,7 +219,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.25k
+                                        1.26k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aklomp/shrinkpdf</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shrink PDF files with Ghostscript</div>
@@ -372,14 +372,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        686
+                                        687
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        493
+                                        494
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -913,7 +913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.09m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 3.09m out of 65.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -998,7 +998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 65.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1186,7 +1186,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2024, 07:06:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2024, 13:06:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
