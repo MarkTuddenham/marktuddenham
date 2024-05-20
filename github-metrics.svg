@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.38807964904677" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="158.38807964904677" y="0" width="96.9840808674599" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="255.37216051650665" y="0" width="77.39623108397943" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="332.7683916004861" y="0" width="72.23175975908079" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="405.0001513595669" y="0" width="16.940177800387506" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="421.94032915995444" y="0" width="15.706161464859145" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.64649062481357" y="0" width="14.16076646977362" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.8072570945872" y="0" width="8.192742905412832" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.4451241987466" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="158.4451241987466" y="0" width="96.96573804727328" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="255.4108622460199" y="0" width="77.38159295845206" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="332.79245520447193" y="0" width="72.21809840178202" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.01055360625395" y="0" width="16.936973865962983" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="421.94752747221696" y="0" width="15.703190922755791" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.6507183949727" y="0" width="14.158088211746772" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.8088066067195" y="0" width="8.19119339328048" height="8" fill="#ef7a08"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,7 +90,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>34.43%</div>
+                                <div>34.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,7 +101,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>16.83%</div>
+                                <div>16.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hirrolot/datatype99</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algebraic data types for C99</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/torchtune</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Native-PyTorch Library for LLM Fine-tuning</div>
@@ -279,7 +279,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        285
+                                        286
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyren/gc-arena</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Incremental garbage collection from safe Rust</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yoshitomo-matsubara/torchdistill</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆25 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.</div>
@@ -669,7 +669,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.92m out of 136m users</span>
+                                    <span class="gh">ranked 1.92m out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -878,7 +878,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 672k out of 136m users</span>
+                                    <span class="gh">ranked 672k out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.15m out of 200m repositories</span>
+                                    <span class="gh">ranked 3.15m out of 201m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.25m out of 200m repositories</span>
+                                    <span class="gh">ranked 5.25m out of 201m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2024, 07:06:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2024, 13:09:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
