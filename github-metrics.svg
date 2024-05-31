@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hirrolot/datatype99</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algebraic data types for C99</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/torchtune</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Native-PyTorch Library for LLM Fine-tuning</div>
@@ -279,7 +279,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        306
+                                        307
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyren/gc-arena</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Incremental garbage collection from safe Rust</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yoshitomo-matsubara/torchdistill</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆25 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.</div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.16m out of 194m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 207m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.26m out of 194m repositories</span>
+                                    <span class="gh">ranked 5.26m out of 207m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 07:07:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 13:08:05 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
