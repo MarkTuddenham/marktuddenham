@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hirrolot/datatype99</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algebraic data types for C99</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/torchtune</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Native-PyTorch Library for LLM Fine-tuning</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyren/gc-arena</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Incremental garbage collection from safe Rust</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yoshitomo-matsubara/torchdistill</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆25 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.</div>
@@ -669,7 +669,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.93m out of 135m users</span>
+                                    <span class="gh">ranked 1.93m out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -878,7 +878,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 676k out of 135m users</span>
+                                    <span class="gh">ranked 676k out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -919,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.16m out of 205m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1004,7 +1004,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 205m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1155,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2024, 07:06:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jun 2024, 13:07:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
