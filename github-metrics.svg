@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhuowei/nft_ptr</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain</div>
@@ -908,7 +908,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.34m out of 223m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -993,7 +993,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.43m out of 223m repositories</span>
+                                    <span class="gh">ranked 5.43m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1144,7 +1144,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 06:08:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 12:09:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
