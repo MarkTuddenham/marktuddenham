@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitsuhiko/insta</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A snapshot testing library for rust</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unpluggedcoder/awesome-rust-tools</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Harness the power of Rust. Those fast productivity tools based on Rust.</div>
@@ -913,7 +913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.05m out of 226m repositories</span>
+                                    <span class="gh">ranked 3.05m out of 215m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -998,7 +998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.53m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.53m out of 215m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1149,7 +1149,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 12:09:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 18:07:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
