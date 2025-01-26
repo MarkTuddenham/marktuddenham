@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 13 repositories
+                            Contributed to 14 repositories
                         </div>
                     </section>
                 </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.0753418378954" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="156.0753418378954" y="0" width="97.75760328062445" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="253.83294511851983" y="0" width="76.22423620812702" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="330.05718132664686" y="0" width="71.13796938807951" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.19515071472637" y="0" width="20.934095685044618" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="422.129246399771" y="0" width="15.46832635973429" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.5975727595052" y="0" width="13.954641153557773" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.55221391306304" y="0" width="8.447786086936944" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.06188553587953" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="156.06188553587953" y="0" width="97.74917494198617" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="253.81106047786565" y="0" width="76.21766440548818" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="330.02872488335385" y="0" width="71.13183610661679" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.16056098997063" y="0" width="20.971950501467045" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="422.1325114914377" y="0" width="15.46699273157288" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.59950422301057" y="0" width="13.95343803035026" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.55294225336087" y="0" width="8.447057746639157" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -112,7 +112,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>4.55%</div>
+                                <div>4.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitsuhiko/insta</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A snapshot testing library for rust</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unpluggedcoder/awesome-rust-tools</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Harness the power of Rust. Those fast productivity tools based on Rust.</div>
@@ -913,7 +913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.05m out of 228m repositories</span>
+                                    <span class="gh">ranked 3.05m out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -998,7 +998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.53m out of 228m repositories</span>
+                                    <span class="gh">ranked 5.53m out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1149,7 +1149,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2025, 12:08:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2025, 18:06:39 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
