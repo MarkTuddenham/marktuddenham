@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swapneel/hnsw-rust</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HNSW implementation in Rust. Reference: https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf</div>
@@ -239,7 +239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>relf/egobox</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods</div>
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jfecher/modern-compiler-architecture</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An example on how to write an incremental, concurrent, fault-tolerant compiler</div>
@@ -425,7 +425,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2025, 13:11:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2025, 19:08:56 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
