@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swapneel/hnsw-rust</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 04 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">HNSW implementation in Rust. Reference: https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf</div>
@@ -239,7 +239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>relf/egobox</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 04 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods</div>
@@ -425,7 +425,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2025, 13:11:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Aug 2025, 19:08:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
